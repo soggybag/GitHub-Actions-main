@@ -17,3 +17,7 @@ export function greet(name) {
 export function pi() {
 	return 3.14
 }
+
+export function name() {
+	return 'Hello World'
+} 
